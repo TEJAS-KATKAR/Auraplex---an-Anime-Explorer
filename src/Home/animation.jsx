@@ -95,7 +95,7 @@ function Animation() {
   text-center md:text-left
   gap-2 md:gap-0
 ">
-  
+
   <h1 className="
     text-5xl sm:text-4xl md:text-7xl
     font-extrabold
