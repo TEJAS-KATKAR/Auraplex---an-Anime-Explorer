@@ -119,7 +119,7 @@ function Animation() {
   </div>
 
 </div>
-      </div>
+  </div>
     </div>
   )
 }
