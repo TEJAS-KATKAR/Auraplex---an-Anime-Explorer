@@ -117,7 +117,6 @@ function Animation() {
       Follow me on Linkedin
     </h4>
   </div>
-
 </div>
   </div>
     </div>
