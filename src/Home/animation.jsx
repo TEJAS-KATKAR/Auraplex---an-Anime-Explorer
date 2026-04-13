@@ -106,6 +106,7 @@ function Animation() {
     AURA PLEX
   </h1>
 
+
   <div className="md:text-right">
     <h2 className="text-base sm:text-lg md:text-2xl font-semibold">
       TEJAS K.
@@ -119,7 +120,8 @@ function Animation() {
   </div>
 </div>
   </div>
-  
+   
+
     </div>
   )
 }
