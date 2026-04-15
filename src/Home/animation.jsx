@@ -113,9 +113,11 @@ function Animation() {
     </h2>
     <h4 className="text-xs sm:text-sm md:text-base">
       Web Design
+
     </h4>
     <h4 className="text-[10px] sm:text-sm md:text-base">
       Follow me on Linkedin
+      
     </h4>
   </div>
 </div>
